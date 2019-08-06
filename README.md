@@ -1,2 +1,2 @@
 # Hello-World
-My frst simple test
+My first simple test
